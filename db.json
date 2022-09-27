@@ -1,0 +1,19 @@
+{
+  "conta": [
+    { "id": 1, "usuario": "Diego", "status": "sou uma estrela", "profissao": "veterinario" },
+    { "id": 2, "usuario": "Amaral", "status": "zerando dark souls", "profissao": "gamer" },
+    { "id": 3, "usuario": "Pdvx", "status": "to na academia", "profissao": "presidente do brasil" },
+    { "id": 4, "usuario": "Caio", "status": "programando...", "profissao": "jogador de lol" },
+    { "id": 5, "usuario": "Rhuan Bento", "status": "ouvindo rock", "profissao": "guitarrista" },
+    { "id": 6, "usuario": "Locha", "status": "Eu virei astronauta!!", "profissao": "Astronauta" }
+  ],
+  "CoisasFav": [
+    { "id": 1, "comida": "Pizza", "filme": "A Era do Gelo 5", "musica": "R U Mine?", "CsId": 1 },
+    { "id": 2, "comida": "Caviar", "filme": "O Poderoso Chefão", "musica": "Pitoco", "CsId": 2 },
+    { "id": 3, "comida": "Macarons", "filme": "Matrix", "musica": "Quadro", "CsId": 3 },
+    { "id": 4, "comida": "Pera", "filme": "Psicose","musica": "you know how we do it", "CsId": 4}, 
+    { "id": 5, "comida": "Uva", "filme": "A Cinco Passos de Você", "musica": "Trem das onze", "CsId": 5},
+    { "id": 6, "comida": "Empadão", "filme": "Como Treinar o seu Dragão","musica": "Adele - Easy On Me", "CsId": 1},
+    { "id": 7, "comida": "Macarrão a água e óleo", "filme": "Sonho de Liberdade","musica": "Avril Lavigne - keep holding on", "CsId": 6}
+  ]
+}
